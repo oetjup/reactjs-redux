@@ -1,0 +1,81 @@
+{
+    "users": [
+        {
+            "id": 1,
+            "nama": "Yusuf",
+            "alamat": "Bandung",
+            "umur": 24,
+            "nohp": "085722363280"
+        },
+        {
+            "id": 2,
+            "nama": "Dayat",
+            "alamat": "Garut",
+            "umur": 28,
+            "nohp": "081220901759"
+        },
+        {
+            "id": 3,
+            "nama": "Dadang",
+            "umur": 31,
+            "alamat": "Sumedang",
+            "nohp": "081367548923"
+        },
+        {
+            "id": 4,
+            "nama": "Robert",
+            "umur": 25,
+            "alamat": "Subang",
+            "nohp": "08137896532"
+        },
+        {
+            "id": 5,
+            "nama": "Cornel",
+            "umur": 29,
+            "alamat": "Majalengka",
+            "nohp": "0898706950"
+        },
+        {
+            "id": 6,
+            "nama": "John",
+            "umur": 35,
+            "alamat": "Majalaya",
+            "nohp": "087890765431"
+        },
+        {
+            "id": 7,
+            "nama": "Arianto",
+            "umur": 32,
+            "alamat": "Cianjur",
+            "nohp": "08117658439"
+        },
+        {
+            "id": 8,
+            "nama": "Muller",
+            "umur": 30,
+            "alamat": "Berlin",
+            "nohp": "0857229078650"
+        },
+        {
+            "id": 9,
+            "nama": "Rully",
+            "umur": 37,
+            "alamat": "Sukabumi",
+            "nohp": "08906843287"
+        },
+        {
+            "id": 10,
+            "nama": "Galih",
+            "umur": 40,
+            "alamat": "Soreang",
+            "nohp": "08447690549"
+        },
+        {
+            "id": 11,
+            "nama": "Yuki",
+            "umur": 30,
+            "alamat": "Tasikmalaya",
+            "nohp": "081230401324"
+        }
+    ]
+}
