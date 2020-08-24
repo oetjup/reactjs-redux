@@ -76,6 +76,13 @@
             "umur": 30,
             "alamat": "Tasikmalaya",
             "nohp": "081230401324"
+        },
+        {
+            "id": 12,
+            "nama": "Yuri",
+            "umur": 36,
+            "alamat": "Bojong",
+            "nohp": "0843768950"
         }
     ]
 }
